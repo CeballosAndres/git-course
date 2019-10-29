@@ -1,3 +1,3 @@
 # Contributing
-Marco Valenecia
-Alejandra
+Marco Balenecia
+Alejandra Centeno
