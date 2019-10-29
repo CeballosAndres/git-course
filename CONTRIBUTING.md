@@ -1,1 +1,3 @@
+# Contributing
+Marco Valenecia
 Alejandra
